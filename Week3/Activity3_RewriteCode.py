@@ -25,9 +25,9 @@ class Factorial:
         else:
             print(f"{self.num1} is not a prime number.")
 
-# Create object and set the number
+# Create object and give number
 number1 = Factorial()
 number1.set_number(7)
 
-# Call the display method
+# display method
 number1.display()
