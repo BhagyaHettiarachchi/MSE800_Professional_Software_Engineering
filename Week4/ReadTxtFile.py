@@ -1,5 +1,3 @@
-# read_sample_text.py
-
 import pandas as pd
 
 # Read the text file with tab delimiter
