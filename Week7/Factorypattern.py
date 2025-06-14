@@ -62,7 +62,7 @@ from abc import ABC, abstractmethod
 # Abstract Factory
 class Factory(ABC):
     @abstractmethod
-    def create_product(self):
+    def create_product(self): 
         pass
 
 # Concrete Factories
