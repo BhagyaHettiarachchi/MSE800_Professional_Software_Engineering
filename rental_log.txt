@@ -1,4 +1,2 @@
-[2025-06-14 12:16:37] [INFO] User: user123 - User logged in.
-[2025-06-14 12:16:37] [ERROR] User: user123 - Failed to process payment.
-[2025-06-14 12:18:37] [INFO] User: Bhagya-User - User logged in.
-[2025-06-14 12:18:37] [ERROR] User: Bhagya-User - Failed book a car
+[2025-06-14 12:21:56] [INFO] User: Bhagya-User - User logged in.
+[2025-06-14 12:21:56] [ERROR] User: Bhagya-User - Failed to book a car
